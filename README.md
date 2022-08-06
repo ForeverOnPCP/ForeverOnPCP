@@ -1,10 +1,10 @@
 # 💖| About me
 Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier. I am a pretty big fan of music and movies.
 
-  ## Fav Anime
-  - Neon Genesis Evangelion
-  - Serial Expriments: Lain
-  - Perfect Blue
+    ## Fav Anime
+    - Neon Genesis Evangelion
+    - Serial Expriments: Lain
+    - Perfect Blue
 
 # ⚙️| Programming Languages
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
