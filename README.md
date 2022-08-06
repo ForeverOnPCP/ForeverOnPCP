@@ -14,7 +14,7 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
     Favorite Movies:
     - Pulp Fiction
     - Interstellar
-    - Cinderella (1960s version tho)
+    - Cinderella (1960s version)
 
 # ⚙️| Programming Languages
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
