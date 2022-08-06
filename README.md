@@ -7,3 +7,7 @@ Hello, I am ForeverOnPCP! I mainly code programs that make my life a little easi
 
 ### 🌱| Projects
 - Developer for Nibiru's Roblox Toolbox & Scripts
+
+### 📱 | Contact
+- Twitter: [Here](https://twitter.com/ForeverOnPCP)
+- Discord: Not Yet  
