@@ -24,5 +24,4 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 - Developer for Nibiru's Roblox Toolbox & Scripts (Closed Source)
 
 # 📱 | Contact
-- Twitter: [Here](https://twitter.com/ForeverOnPCP)
-- Discord: Don't have one but Nibiru's Server can be found: [Here](https://discord.gg/ZCh24dZyHe)  
+- Twitter: Message me on twitter! | [Here](https://twitter.com/ForeverOnPCP)
