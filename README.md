@@ -1,7 +1,7 @@
 # 💖| About me
 Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier. I am a pretty big fan of music and movies.
 
-    ## Fav Anime
+    Favorite Animes:
     - Neon Genesis Evangelion
     - Serial Expriments: Lain
     - Perfect Blue
