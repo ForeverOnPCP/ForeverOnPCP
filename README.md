@@ -25,4 +25,4 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 
 # 📱 | Contact
 - Twitter: [Here](https://twitter.com/ForeverOnPCP)
-- Discord: Not Yet  
+- Discord: Don't have one but Nibiru's Server can be found: [Here]("https://discord.gg/ZCh24dZyHe")  
