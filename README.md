@@ -22,6 +22,7 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 
 # 🌱| Projects
 - Developer for Nibiru's Roblox Toolbox & Scripts (Closed Source)
+- Developer for Nexus Scripts
 
 # 📱 | Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)!
