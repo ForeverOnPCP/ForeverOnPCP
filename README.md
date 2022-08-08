@@ -22,8 +22,8 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript
 
 # 🌱| Projects
-- Nibiru's Toolbox
-- Nexus Scripts 
+- Nibiru's Toolbox (Soon)
+- Nexus Scripts (Soon)
 
 # 📱 | Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)!
