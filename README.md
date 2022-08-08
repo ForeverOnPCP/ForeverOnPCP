@@ -22,7 +22,7 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript (Don't use often)
 
 # 🌱| Projects
-- Developer for Nibiru's Roblox Toolbox & Scripts (Closed Source)
+- Nibiru's Roblox Toolbox
 - Nexus Scripts
 
 # 📱 | Contact
