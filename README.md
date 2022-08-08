@@ -19,11 +19,11 @@ Hello, I am ForeverOnPCP! I make projects that make my life a little bit easier.
 # ⚙️| Programming Languages
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
 - ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_16x16.png) | Lua
-- ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript (Don't use often)
+- ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript
 
 # 🌱| Projects
-- Nibiru's Roblox Toolbox
-- Nexus Scripts
+- Nibiru's Toolbox
+- Nexus Scripts 
 
 # 📱 | Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)!
