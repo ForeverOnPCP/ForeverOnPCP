@@ -17,12 +17,13 @@ Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movie
     - Cinderella (1960s version)
 
 # 💻| Programming Languages
-- ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
-- ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_16x16.png) | Lua
-- ![This is an image](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript
+- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
+- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_16x16.png) | Lua
+- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript
 
 # 💭| What I'm learning
-- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go_16x16.png)| Golang
+- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go_16x16.png) | Golang
+- 🖥 | Web Development 
 
 # ⚙️| What I mainly do
 - Website Automation
