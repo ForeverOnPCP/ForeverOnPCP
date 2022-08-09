@@ -25,7 +25,7 @@ Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movie
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go_16x16.png) | Golang
 - 🖥 | Web Development 
 
-# ⚙️| What I mainly do
+# ⚙️| What I Specialize In
 - Website Automation
 
 # 📱 | Contact
