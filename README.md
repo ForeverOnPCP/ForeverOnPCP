@@ -29,6 +29,11 @@ I enjoy making software that benefits me // makes my life easier.
 
 # ⚙️| What I Specialize In
 - Website Automation
+- Website Exoloitation
 
-# 📱 | Contact
+# ?| Projects Currently Developing
+- Nibiru Roblox Toolbox (Closed Source)
+
+# 📱| Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)
+- Discord: Mazzy#1818
