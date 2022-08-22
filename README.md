@@ -29,7 +29,7 @@ I enjoy making software that benefits me // makes my life easier.
 
 # ⚙️| What I Specialize In
 - Website Automation
-- Website Exoloitation
+- Website Exploitation
 
 # ?| Projects Currently Developing
 - Nibiru Roblox Toolbox (Closed Source)
