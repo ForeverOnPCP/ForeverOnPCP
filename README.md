@@ -31,8 +31,10 @@ I enjoy making software that benefits me // makes my life easier.
 - Website Automation
 - Website Exploitation
 
-# ?| Projects Currently Developing
+# ?| Projects Currently In Development
+- Notice: Open source projects will be released when version 1 of the program is finished
 - Nibiru Roblox Toolbox (Closed Source)
+- Nibiru Username Sniper (Open Source)
 
 # 📱| Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)
