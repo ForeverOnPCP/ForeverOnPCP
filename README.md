@@ -15,6 +15,11 @@ Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movie
     - Pulp Fiction
     - Interstellar
     - Cinderella (1960s version)
+    
+    Favorite Albums:
+    - Effective. Power
+    - Ok Computer
+    - Untrue
 
 I enjoy making software that benefits me // makes my life easier.
 
