@@ -18,8 +18,8 @@ Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movie
     
     Favorite Albums:
     - Effective. Power
-    - Ok Computer
-    - Untrue
+    - Basement Popstar
+    - Born To Die
 
 I enjoy making software that benefits me // makes my life easier.
 
@@ -39,7 +39,7 @@ I enjoy making software that benefits me // makes my life easier.
 # ?| Projects Currently In Development
 - Notice: Open source projects will be released when version 1 of the program is finished
 - Nibiru Roblox Toolbox (Closed Source)
-- Nibiru Username Sniper (Open Source)
+- Nibiru Essay Writer (Open Source)
 
 # 📱| Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)
