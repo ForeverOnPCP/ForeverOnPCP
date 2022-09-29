@@ -38,8 +38,7 @@ I enjoy making software that benefits me // makes my life easier.
 
 # ?| Projects Currently In Development
 - Notice: Open source projects will be released when version 1 of the program is finished
-- Nibiru Roblox Toolbox (Closed Source)
-- Nibiru Essay Writer (Open Source)
+- Nothing right now, sorry!
 
 # 📱| Contact
 - Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)
