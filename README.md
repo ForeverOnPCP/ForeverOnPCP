@@ -17,9 +17,9 @@ Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movie
     - Cinderella (1960s version)
     
     Favorite Albums:
-    - Effective. Power
-    - Basement Popstar
-    - Born To Die
+    - E - Ecco2k
+    - Private City - John Surman
+    - Untrue - Burial
 
 I enjoy making software that benefits me // makes my life easier.
 
