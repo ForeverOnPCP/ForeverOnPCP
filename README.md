@@ -21,6 +21,3 @@ I enjoy making software that benefits me // makes my life easier.
 # 💭| What I'm learning
 - 🖥 | Web Development
 - 🤖 | AI Development
-
-# ?| What I'm working on
-- Currently working on AI driven 
