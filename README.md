@@ -1,16 +1,6 @@
 # 💖| About me
-Hello, I am ForeverOnPCP! I am a pretty big fan of music, manga, anime and movies.
+Working on AI and Finacial Solutions...
 
-    Favorite Animes:
-    - Neon Genesis Evangelion
-    - Serial Expriments: Lain
-    - Perfect Blue
-    
-    Favorite Mangas/Manhwa:
-    - The Horizon
-    - 20th Century Boys
-    - Beserk
-    
     Favorite Movies:
     - Pulp Fiction
     - Interstellar
@@ -29,17 +19,8 @@ I enjoy making software that benefits me // makes my life easier.
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_16x16.png) | Javascript
 
 # 💭| What I'm learning
-- ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go_16x16.png) | Golang
-- 🖥 | Web Development 
+- 🖥 | Web Development
+- 🤖 | AI Development
 
-# ⚙️| What I Specialize In
-- Website Automation
-- Website Exploitation
-
-# ?| Projects Currently In Development
-- Notice: Open source projects will be released when version 1 of the program is finished
-- Nothing right now, sorry!
-
-# 📱| Contact
-- Twitter: Message me on [twitter](https://twitter.com/ForeverOnPCP)
-- Discord: Mazzy#1818
+# ?| What I'm working on
+- Currently working on AI driven 
