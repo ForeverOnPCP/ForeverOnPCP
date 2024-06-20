@@ -1,17 +1,5 @@
 # 💖| About me
-Working on AI and Finacial Solutions...
-
-    Favorite Movies:
-    - Pulp Fiction
-    - Interstellar
-    - Cinderella (1960s version)
-    
-    Favorite Albums:
-    - E - Ecco2k
-    - Private City - John Surman
-    - Untrue - Burial
-
-I enjoy making software that benefits me // makes my life easier.
+Working on Disrupting
 
 # 💻| Programming Languages
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
