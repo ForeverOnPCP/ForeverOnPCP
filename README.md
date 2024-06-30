@@ -1,5 +1,5 @@
 # 💖| About me
-Working on Disrupting
+Working on AIOs within the Cryptocurrency space, along with other professional projects so I can get into college.
 
 # 💻| Programming Languages
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
