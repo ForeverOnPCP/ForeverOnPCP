@@ -8,4 +8,5 @@ Working on Disrupting
 
 # 💭| What I'm learning
 - 🖥 | Web Development
-- 🤖 | AI Development
+- 🤖 | App Development
+- ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_16x16.png) | Go
