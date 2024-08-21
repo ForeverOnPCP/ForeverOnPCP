@@ -1,6 +1,5 @@
 # 💖| About me
-Working on AIOs within the Cryptocurrency space, along with other professional projects so I can get into college.
-
+Working on payment gateways. Attempting to revolutionize and bridge the gap between crypto and ordinary people. I'll update in 5 years if I'm successful. 
 # 💻| Programming Languages
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_16x16.png) | Python
 - ![](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_16x16.png) | Lua
